@@ -6,7 +6,6 @@
 names = [] 
   
 # Adding elements to the queue
-acceptedName = ['Joe', 'Sally', 'Jim', 'June', 'Bill', 'Betty', 'Sara', 'Zak', 'Anne', 'Kate']
 for x in range(10):
     name = input("Enter name: ")
     names.append(name)
